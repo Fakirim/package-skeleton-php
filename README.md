@@ -1,1 +1,1 @@
-# package-skeleton-php
+# Package Skeleton Laravel
