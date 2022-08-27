@@ -1,1 +1,1 @@
-# Package Skeleton Laravel
+# Package Template for Laravel
